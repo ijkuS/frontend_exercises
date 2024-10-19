@@ -1,13 +1,15 @@
-# frontend_exercises
-Practical exercises related to frontend development
+# Frontend_Exercises - WIP 
+A collection of practical frontend development exercises, currently a work in progress.
 
-While still considering between Monorepo and Multi-Repo, 
-I am testing some methodology to organize my small projects or exercises. Below article helped my consideration. 
+As I explored different ways to efficiently organize small projects and exercises, 
+I debated between using a monorepo or multirepo structure. After some research, 
+the article below helped me make my decision. I opted for a monorepo to streamline my workflow, 
+allowing me to create a cohesive structure that organizes links to various files, 
+while making it easier to manage all the exercises and projects I have developed.
 [Monorepo vs Multi-Repo: Pros and Cons of Code Repository Strategies](https://kinsta.com/blog/monorepo-vs-multi-repo/)
 
-1. [MiniMemo App - WIP](https://github.com/ijkuS/miniMemo-1)
     
-2. **Frontend Exercises**
+**Frontend Exercises Links**
    - Advice Generator App
    - Blog Preview Card
    - Calculator App Collections
@@ -16,5 +18,6 @@ I am testing some methodology to organize my small projects or exercises. Below 
    - Quiz App Collections
    - TodoList App Collections
    - Weather App Collections
+   - [MiniMemo App](https://github.com/ijkuS/miniMemo-1)
 
     

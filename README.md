@@ -8,12 +8,12 @@ allowing me to create a cohesive structure that organizes links to various files
 while making it easier to manage all the exercises and projects I have developed.
 [Monorepo vs Multi-Repo: Pros and Cons of Code Repository Strategies](https://kinsta.com/blog/monorepo-vs-multi-repo/)
 
-**Frontend Projects Links**
+## Frontend Projects Links
 - OOA, e-commerce website (React, JavaScript, HTML5, CSS3) 
 - [MiniMemo App](https://github.com/ijkuS/miniMemo-1) (TypeScript, HTML5, CSS3)
 - MeTube (React, JavaScript, HTML5, CSS3, tailwindcss) 
     
-**Frontend Exercises Links**
+## Frontend Exercises Links
 - TodoList App Collections
 - IP Address Tracker App
 

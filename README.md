@@ -1,4 +1,4 @@
-# Frontend_Exercises - WIP 
+# Frontend_Mini Projects & Exercises - WIP 
 A collection of practical frontend development exercises, currently a work in progress.
 
 As I explored different ways to efficiently organize small projects and exercises, 
@@ -8,16 +8,26 @@ allowing me to create a cohesive structure that organizes links to various files
 while making it easier to manage all the exercises and projects I have developed.
 [Monorepo vs Multi-Repo: Pros and Cons of Code Repository Strategies](https://kinsta.com/blog/monorepo-vs-multi-repo/)
 
+**Frontend Projects Links**
+- OOA, e-commerce website (React, JavaScript, HTML5, CSS3) 
+- [MiniMemo App](https://github.com/ijkuS/miniMemo-1) (TypeScript, HTML5, CSS3)
+- MeTube (React, JavaScript, HTML5, CSS3, tailwindcss) 
     
 **Frontend Exercises Links**
-   - Advice Generator App
-   - Blog Preview Card
-   - Calculator App Collections
-   - Calendar App Collections
-   - Counter App
-   - Quiz App Collections
-   - TodoList App Collections
-   - Weather App Collections
-   - [MiniMemo App](https://github.com/ijkuS/miniMemo-1)
+- TodoList App Collections
+- IP Address Tracker App
+
+- Quiz App Collections
+- URL Shortening App 
+
+- Advice Generator App
+- Blog Preview Card
+- Calculator App
+- Calendar App Collections
+- Counter App
+- Weather App Collections
+
+- Drag&Drop Exercises
+      - ver. Vanilla JavaScript 
 
     

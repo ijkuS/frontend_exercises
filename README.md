@@ -1,4 +1,4 @@
-# Frontend_Mini Projects & Exercises - WIP 
+# Mini Projects & Exercises - WIP 
 A collection of practical frontend development exercises, currently a work in progress.
 
 As I explored different ways to efficiently organize small projects and exercises, 

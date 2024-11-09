@@ -15,6 +15,7 @@ while making it easier to manage all the exercises and projects I have developed
 
 
 ## Practices 
+- [Implementing User Authentication and Authorization with Next.js and Firebase](https://github.com/ijkuS/next-react-auth-practice-4)
 - [Setting Up a React App without Create-React-App (CRA)](https://github.com/ijkuS/ooa-1/blob/master/README-setting.md)
     
 ## Frontend Exercises Links

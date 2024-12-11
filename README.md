@@ -9,7 +9,7 @@ while making it easier to manage all the exercises and projects I have developed
 [Monorepo vs Multi-Repo: Pros and Cons of Code Repository Strategies](https://kinsta.com/blog/monorepo-vs-multi-repo/)
 
 ## Frontend Projects Links
-- [OOA](https://github.com/ijkuS/ooa-2), e-commerce website (React, JavaScript, Next.js, HTML5, CSS3) 
+- [OOA](https://github.com/ijkuS/ooa-6), e-commerce website (React, JavaScript, HTML5, CSS3) 
 - [MiniMemo App](https://github.com/ijkuS/miniMemo-1) (TypeScript, HTML5, CSS3)
 - MeTube (React, JavaScript, HTML5, CSS3, tailwindcss) 
 
